@@ -1,0 +1,21 @@
+#screen {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#controller {
+  padding: 1rem;
+}
+
+#instruction {
+  border: 2px solid res;
+}
+kbd {
+  border: 1px solid black;
+  padding: 0.1rem 0.5rem;
+  border-radius: 3px;
+}
